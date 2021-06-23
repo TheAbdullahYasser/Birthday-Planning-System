@@ -1,0 +1,39 @@
+Id: 100
+Title:test
+Description: testing for admin
+Initial Date: 05/15/2021
+Due Date: 05/20/2021
+Status: Delivered
+------------------------------------------------------ 
+Id: 1
+Title:Anounce the Software Project
+Description: Create an anouncment about the software on social media
+Initial Date: 06/08/2021
+Due Date: 06/10/2021
+Status: Ongoing
+Comment For Edit: 
+------------------------------------------------------ 
+Id: 1
+Title:Anounce the Software Project
+Description: Create an anouncment about the software on social media
+Initial Date: 06/08/2021
+Due Date: 06/10/2021
+Status: Ongoing
+Comment For Edit: 
+------------------------------------------------------ 
+Id: 1
+Title:Anounce the Software Project
+Description: Create an anouncment about the software on social media
+Initial Date: 06/08/2021
+Due Date: 06/10/2021
+Status: Ongoing
+Comment For Edit: 
+------------------------------------------------------ 
+Id: 1
+Title:Anounce the Software Project
+Description: Create an anouncment about the software on social media
+Initial Date: 06/08/2021
+Due Date: 06/10/2021
+Status: Ongoing
+Comment For Edit: 
+------------------------------------------------------ 
